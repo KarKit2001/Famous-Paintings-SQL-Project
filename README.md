@@ -1,5 +1,5 @@
 # Famous Paintings Data Analysis
-![image](https://github.com/user-attachments/assets/726d1225-59d7-498e-aef7-7a84a32f477d)
+![image](https://github.com/user-attachments/assets/0f0dc2f6-620c-423b-b0cd-28f70490603a)
 
 ## 📖 Project Overview
 This repository explores the Famous Paintings Dataset sourced from Kaggle to answer key questions about artists, museums, and artworks. By analyzing this dataset, we gain insights into the art world, such as identifying prolific artists, comparing museum collections, and understanding artistic trends.
@@ -13,7 +13,7 @@ We aim to explore the Famous Paintings Dataset to answer the following:
 - Which country houses the highest number of museums?
 
 # 2. 📊 Collecting the Data
-The dataset used in this project is the Famous Paintings Dataset, sourced from Kaggle. It comprises multiple interconnected tables that provide detailed information about artists, paintings, museums, and related attributes. The key tables are:
+The dataset used in this project is the [Famous Paintings Dataset](https://www.kaggle.com/datasets/mexwell/famous-paintings), sourced from Kaggle. It comprises multiple interconnected tables that provide detailed information about artists, paintings, museums, and related attributes. The key tables are:
 
 ### Artist: 
 Contains details about artists, including their full names, nationality, artistic style, and lifespan.
